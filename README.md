@@ -33,10 +33,10 @@ A modern, declarative Android application designed for culinary enthusiasts to d
 
 | Home Screen | Recipe Details | Add Recipe | Saved Recipes |
 |:---:|:---:|:---:|:---:|
-| <img width="297" height="652" alt="Screenshot 2026-11-02 163316" src="https://github.com/user-attachments/assets/57b008c4-d557-4d36-9936-3165c10367c3" /> |
- |<img width="297" height="662" alt="Screenshot 2026-11-02 163342" src="https://github.com/user-attachments/assets/d87df132-ff1a-40df-a349-121610e4cece" />|
- |<img width="293" height="665" alt="Screenshot 2026-11-02 163602" src="https://github.com/user-attachments/assets/8bd0efcc-599c-430f-8b63-e0baddf62501" />|
- |<img width="297" height="647" alt="Screenshot 2026-11-02 163637" src="https://github.com/user-attachments/assets/e111fe54-fa5e-4d50-822c-b957b8c8880b" /> |
+| <img width="297" height="652" alt="Screenshot 2026-11-02 163316" src="https://github.com/user-attachments/assets/57b008c4-d557-4d36-9936-3165c10367c3" /> 
+ <img width="297" height="662" alt="Screenshot 2026-11-02 163342" src="https://github.com/user-attachments/assets/d87df132-ff1a-40df-a349-121610e4cece" />
+ <img width="293" height="665" alt="Screenshot 2026-11-02 163602" src="https://github.com/user-attachments/assets/8bd0efcc-599c-430f-8b63-e0baddf62501" />
+ <img width="297" height="647" alt="Screenshot 2026-11-02 163637" src="https://github.com/user-attachments/assets/e111fe54-fa5e-4d50-822c-b957b8c8880b" /> |
  
 
 
